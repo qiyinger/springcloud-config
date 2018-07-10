@@ -1,0 +1,4 @@
+﻿spring:
+  profiles: dev
+  application:
+    name: springcloud-config-qiy-dev
